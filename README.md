@@ -3,12 +3,10 @@
   <code>
     <a href="https://www.linkedin.com/in/jhonatanciriaco/" title="LinkedIn Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/jhonatan_ciriaco/" title="Instagram Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/instagram.svg"> Instagram</a></code>
-  <!--<code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>-->
 </h5>
 <br>
 <p align="center">
-  oftware Developer made in Belo Horizonte - MG!
-  <br>
+  Software Developer made in Belo Horizonte - MG!
   <br>
   🔬 Atualmente trabalhando como desenvolvedor sênior na @StartupEstúdio.
    <br>
