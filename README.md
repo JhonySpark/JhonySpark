@@ -52,9 +52,9 @@
 </p>
 <hr>
 
-<h4 align="center"><a href=https://github.com/jhonyspark?tab=repositories" title="Show Repositories">🔎 Repositórios 🔍</a></h4>
+<!-- <h4 align="center"><a href=https://github.com/jhonyspark?tab=repositories" title="Show Repositories">🔎 Repositórios 🔍</a></h4>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+ -->
 <!--
 **jhonyspark/jhonyspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
