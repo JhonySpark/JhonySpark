@@ -1,10 +1,10 @@
 <h3 align="center">Olá, Eu sou o Jhony 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/instagram.svg"> Instagram</a></code>
-  <!--<code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/stackoverflow.svg"> Stack Overflow</a></code>-->
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/instagram.svg"> Instagram</a></code>
+  <!--<code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>-->
 </h5>
 <br>
 <p align="center">
@@ -32,14 +32,14 @@
   <code><img title="VueJs" height="25" src="https://www.fabiofranchino.com/assets/posts/vuejs-nice-to-meet-you/cover.png"></code>
   <code><img title="MongoDB" height="25" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png"></code>
   <code><img title="Laravel" height="25" src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/css.svg"></code>
-  <code><img title="SAAS" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/sass.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/angularjs.svg"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/jquery.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/tree/master/images/json.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/css.svg"></code>
+  <code><img title="SAAS" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/sass.svg"></code>
+  <code><img title="AngularJS" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/angularjs.svg"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/jquery.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/json.svg"></code>
 </p>
 
 <hr>
