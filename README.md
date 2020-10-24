@@ -1,4 +1,4 @@
-<h3 align="center">Hello there, I'm Osman 👋</h3>
+<h3 align="center">Olá, Eu sou o Jhony</h3>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="https://github.com/jhonyspark/jhonyspark/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -8,7 +8,7 @@
 </h5>
 <br>
 <p align="center">
-  Olá, Eu sou o Jhonatan, Software Developer made in Belo Horizonte - MG!
+  Software Developer made in Belo Horizonte - MG!
   <br>
   <br>
   🔬 Atualmente trabalhando como desenvolvedor sênior na @StartupEstúdio.
