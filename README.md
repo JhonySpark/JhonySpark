@@ -6,7 +6,7 @@
 </h5>
 <br>
 <p align="center">
-  Software Developer made in Belo Horizonte - MG!
+  From Belo Horizonte - MG!
   <br>
   🔬 Desenvolvedor Sênior
    <br>
