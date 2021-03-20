@@ -8,7 +8,7 @@
 <p align="center">
   Software Developer made in Belo Horizonte - MG!
   <br>
-  🔬 Atualmente trabalhando como desenvolvedor sênior na @StartupEstúdio.
+  🔬 Desenvolvedor Sênior
    <br>
   💻 Sou apaixonado por programação e adoro escrever códigos! 
   <br>
