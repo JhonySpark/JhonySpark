@@ -6,8 +6,6 @@
 </h5>
 <br>
 <p align="center">
-  From Belo Horizonte - MG!
-  <br>
   🔬 Desenvolvedor Sênior
    <br>
   💻 Sou apaixonado por programação e adoro escrever códigos! 
