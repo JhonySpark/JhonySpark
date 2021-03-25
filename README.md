@@ -36,7 +36,6 @@
   <code><img title="JSON" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/json.svg"></code>
 </p>
 
-<hr>
 <!-- <a href="https://github.com/jhonyspark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyspark&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
 </a>
