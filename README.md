@@ -9,8 +9,6 @@
    <br>
   💻 Sou apaixonado por programação e adoro escrever códigos! 
   <br>
-  📚 No momento estutando sobre VueJs, AWS Services e DevOps. 
-  <br>
   ⚡ Fun fact: Meu nome não é Jhony... kkkk
   <br>
   📫 Nem precisa do sinal de fumaça nem nada: <a href="mailto: jhonatanferreira13@hotmail.com">jhonatanferreira13@hotmail.com</a>
