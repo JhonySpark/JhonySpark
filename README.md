@@ -11,7 +11,7 @@
   <br>
   ⚡ Fun fact: Meu nome não é Jhony... kkkk
   <br>
-  📫 Nem precisa do sinal de fumaça nem nada: <a href="mailto: jhonatanferreira13@hotmail.com">jhonatanferreira13@hotmail.com</a>
+  📫 Nem precisa do sinal de fumaça: <a href="mailto: jhonatanferreira13@hotmail.com">jhonatanferreira13@hotmail.com</a>
 </p>
 
 <hr>
