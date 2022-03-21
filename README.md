@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=jhonyspark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img align="center" src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" />
 </p>
  
 <h2 align="center">Linguagens & Frameworks & Ferramentas & Habilidades</h2>
