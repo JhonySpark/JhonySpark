@@ -17,9 +17,10 @@
 <hr>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=jhonyspark&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyspark&layout=compact&langs_count=8"/>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jhonyspark&theme=onedark)](https://github.com/jhonyspark/github-profile-trophy)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyspark&layout=compact&langs_count=8"/> 
 </div>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=jhonyspark&theme=onedark)](https://github.com/jhonyspark/github-profile-trophy)]
+ 
 <h2 align="center">Linguagens & Frameworks & Ferramentas & Habilidades</h2>
 
 <p align="center">
