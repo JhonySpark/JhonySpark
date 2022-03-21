@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhonyspark&color=green"/> [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
-
+  <img src="https://komarev.com/ghpvc/?username=jhonyspark&color=green"/><img src="https://komarev.com/ghpvc/?username=jhonyspark&color=green"/>
 </p>
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 <h3 align="center">Olá, Eu sou o Jhony 👋</h3>
 <h5 align="center">
   <code>
