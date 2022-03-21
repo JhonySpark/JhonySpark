@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jhonyspark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jhonyspark&column=7"/>
 </p>
  
 <h2 align="center">Linguagens & Frameworks & Ferramentas & Habilidades</h2>
