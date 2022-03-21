@@ -1,8 +1,8 @@
 <h3 align="center">Olá, Eu sou o Jhony 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/jhonatanciriaco/" title="LinkedIn Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/jhonatan_ciriaco/" title="Instagram Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/jhonatanciriaco/" target:"_blank" title="LinkedIn Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/jhonatan_ciriaco/" title="Instagram Profile" target:"_blank"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <p align="center">
   🔬 Desenvolvedor Sênior
