@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <img align="center" src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=jhonyspark" />
 </p>
  
 <h2 align="center">Linguagens & Frameworks & Ferramentas & Habilidades</h2>
