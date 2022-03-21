@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/jhonyspark.svg?style=social&label=Naereen&maxAge=2592000)](https://github.com/jhonyspark?tab=followers) 
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jhonyspark?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=jhonyspark&color=green"/>  
 
 
@@ -19,7 +19,6 @@
   <br>
   📫 Nem precisa do sinal de fumaça: <a href="mailto: jhonatanferreira13@hotmail.com">jhonatanferreira13@hotmail.com</a>
   <br>
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12181988273)
 </p>
 
 <hr>
@@ -31,13 +30,17 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jhonyspark&column=7"/>
 </p>
- 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2 align="center">Linguagens & Frameworks & Ferramentas & Habilidades</h2>
 
 <p align="center">
   <code><img title="React" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"></code>
-  <code><img title="Node" height="25" src="https://www.mediapreset.com/wp-content/uploads/2017/02/MediaPreset.com-Node.js-Application-Development-Service.jpg"></code>
-  <code><img title="VueJs" height="25" src="https://www.fabiofranchino.com/assets/posts/vuejs-nice-to-meet-you/cover.png"></code>
+  <code><img title="Node" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></code>
+  <code><img title="VueJs" height="25" src="https://miro.medium.com/max/1400/1*ACR0gj0wbx91V_xgURifWg.png"></code>
+  <code><img title="Flutter" height="25" src="https://miro.medium.com/proxy/1*szmA2b5DQS_U5wAGgHiPQg.png"></code>
   <code><img title="MongoDB" height="25" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png"></code>
   <code><img title="Laravel" height="25" src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/javascript.svg"></code>
