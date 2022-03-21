@@ -20,9 +20,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyspark&layout=compact&langs_count=8"/> 
 </div>
 
-```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-```
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=jhonyspark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
  
 <h2 align="center">Linguagens & Frameworks & Ferramentas & Habilidades</h2>
 
