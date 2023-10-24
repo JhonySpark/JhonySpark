@@ -15,8 +15,6 @@
    <br>
   💻 Sou apaixonado por programação e adoro escrever códigos! 
   <br>
-  ⚡ Fun fact: Meu nome não é Jhony... kkkk
-  <br>
   📫 Nem precisa do sinal de fumaça: <a href="mailto: jhonatanferreira13@hotmail.com">jhonatanferreira13@hotmail.com</a>
   <br>
 </p>
