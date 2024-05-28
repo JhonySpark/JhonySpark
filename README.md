@@ -1,78 +1,73 @@
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jhonyspark?tab=followers)
-<img src="https://komarev.com/ghpvc/?username=jhonyspark&color=green"/>  
+<h2 align="center">Hi 👋! My name is Jhonatan and I'm a Software Engenner from Brazil!</h2>
 
+###
 
-
-
-<h3 align="center">Olá, Eu sou o Jhony 👋</h3>
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/jhonatanciriaco/" target:"_blank" title="LinkedIn Profile"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/jhonatan_ciriaco/" title="Instagram Profile" target:"_blank"><img width="22" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/instagram.svg"> Instagram</a></code>
-</h5>
-<p align="center">
-  🔬 Desenvolvedor Sênior
-   <br>
-  💻 Sou apaixonado por programação e adoro escrever códigos! 
-  <br>
-  📫 Nem precisa do sinal de fumaça: <a href="mailto: jhonatanferreira13@hotmail.com">jhonatanferreira13@hotmail.com</a>
-  <br>
-</p>
-
-<hr>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyspark&layout=compact&langs_count=8"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonyspark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonyspark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jhonyspark&column=7"/>
-</p>
+###
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img align="right" height="150" src="https://media1.tenor.com/m/ffGDkqKAkgMAAAAd/guts-hood.gif"  />
 
-<h2 align="center">Linguagens & Frameworks & Ferramentas & Habilidades</h2>
+###
 
-<p align="center">
-  <code><img title="React" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"></code>
-  <code><img title="Node" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></code>
-  <code><img title="VueJs" height="25" src="https://miro.medium.com/max/1400/1*ACR0gj0wbx91V_xgURifWg.png"></code>
-  <code><img title="Flutter" height="25" src="https://miro.medium.com/proxy/1*szmA2b5DQS_U5wAGgHiPQg.png"></code>
-  <code><img title="MongoDB" height="25" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png"></code>
-  <code><img title="Laravel" height="25" src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/css.svg"></code>
-  <code><img title="SAAS" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/sass.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/angularjs.svg"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/jquery.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/JhonySpark/JhonatanFCiriaco/blob/master/images/json.svg"></code>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-<!-- <a href="https://github.com/jhonyspark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyspark&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
-</a>
-</p>
-<hr>
+###
 
-<!-- <h4 align="center"><a href=https://github.com/jhonyspark?tab=repositories" title="Show Repositories">🔎 Repositórios 🔍</a></h4>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
- -->
-<!--
-**jhonyspark/jhonyspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href="https://www.linkedin.com/in/jhonatanciriaco/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/jhonatanfciriaco" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/11657893/jhony-spark" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.instagram.com/jhonatan_ciriaco/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="jhonatanciriaco" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br clear="both">
 
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+<img src="https://raw.githubusercontent.com/jhonyspark/jhonyspark/output/snake.svg" alt="Snake animation" />
 
--->
+###
